@@ -1,4 +1,4 @@
-transformers
+transformers[torch]
 numpy
 pandas
 seaborn
@@ -7,3 +7,4 @@ torch
 nltk
 sentencepiece
 datasets
+torchinfo
