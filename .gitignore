@@ -1,0 +1,21 @@
+
+2 - Fine Tuning/my_trainer/checkpoint-8419/tokenizer.json
+2 - Fine Tuning/.ipynb_checkpoints/Fine Tuning Sentiment Analysis-checkpoint.ipynb
+2 - Fine Tuning/models/my_sentiment_analysis/config.json
+2 - Fine Tuning/models/my_sentiment_analysis/model.safetensors
+2 - Fine Tuning/models/my_sentiment_analysis/special_tokens_map.json
+2 - Fine Tuning/models/my_sentiment_analysis/tokenizer.json
+2 - Fine Tuning/models/my_sentiment_analysis/tokenizer_config.json
+2 - Fine Tuning/models/my_sentiment_analysis/training_args.bin
+2 - Fine Tuning/models/my_sentiment_analysis/vocab.txt
+2 - Fine Tuning/my_trainer/checkpoint-8419/config.json
+2 - Fine Tuning/my_trainer/checkpoint-8419/model.safetensors
+2 - Fine Tuning/my_trainer/checkpoint-8419/optimizer.pt
+2 - Fine Tuning/my_trainer/checkpoint-8419/rng_state.pth
+2 - Fine Tuning/my_trainer/checkpoint-8419/scheduler.pt
+2 - Fine Tuning/my_trainer/checkpoint-8419/special_tokens_map.json
+2 - Fine Tuning/my_trainer/checkpoint-8419/tokenizer_config.json
+2 - Fine Tuning/my_trainer/checkpoint-8419/trainer_state.json
+2 - Fine Tuning/my_trainer/checkpoint-8419/training_args.bin
+2 - Fine Tuning/my_trainer/checkpoint-8419/vocab.txt
+2 - Fine Tuning/my_trainer/runs/Oct22_20-07-44_LAPTOP-44AV3V95/events.out.tfevents.1729633736.LAPTOP-44AV3V95.30592.0
