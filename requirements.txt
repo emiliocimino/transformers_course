@@ -9,3 +9,5 @@ sentencepiece
 datasets
 torchinfo
 seqeval
+sacrebleu
+bert-score
