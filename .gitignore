@@ -27,3 +27,5 @@
 /3 - Fine Tuning NER + POS Tagging/distilbert-finetuned-ner
 /.ipynb_checkpoints
 /3 - Fine Tuning NER + POS Tagging/my_pos_model
+/4 - Fine Tuning Machine Translation + Seq2Seq/finetuned_ita_model
+/4 - Fine Tuning Machine Translation + Seq2Seq/my_eng_ita_model
