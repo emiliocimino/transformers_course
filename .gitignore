@@ -19,13 +19,13 @@
 2 - Fine Tuning/my_trainer/checkpoint-8419/training_args.bin
 2 - Fine Tuning/my_trainer/checkpoint-8419/vocab.txt
 2 - Fine Tuning/my_trainer/runs/Oct22_20-07-44_LAPTOP-44AV3V95/events.out.tfevents.1729633736.LAPTOP-44AV3V95.30592.0
-*.ipynb
 /2 - Fine Tuning Text Classification (Sentiment Analysis)/models
 /2 - Fine Tuning Text Classification (Sentiment Analysis)/my_trainer
 /2 - Fine Tuning Text Classification (Sentiment Analysis)/sentiment_analysis_custom_training
 /2 - Fine Tuning Text Classification (Sentiment Analysis)/text_entailment_training
 /3 - Fine Tuning NER + POS Tagging/distilbert-finetuned-ner
-/.ipynb_checkpoints
+*/.ipynb_checkpoints
 /3 - Fine Tuning NER + POS Tagging/my_pos_model
 /4 - Fine Tuning Machine Translation + Seq2Seq/finetuned_ita_model
 /4 - Fine Tuning Machine Translation + Seq2Seq/my_eng_ita_model
+.ipynb_checkpoints/requirements-checkpoint.txt
