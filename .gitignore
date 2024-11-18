@@ -29,3 +29,5 @@
 /4 - Fine Tuning Machine Translation + Seq2Seq/finetuned_ita_model
 /4 - Fine Tuning Machine Translation + Seq2Seq/my_eng_ita_model
 .ipynb_checkpoints/requirements-checkpoint.txt
+/5 - Question Answering/finetuned_squad
+/5 - Question Answering/my_squad
